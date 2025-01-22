@@ -1,5 +1,8 @@
 <h1>Hi, I'm Vernon, an <a href="https://linkedin.com/in/VernonBristo">IT Professional</h1>
 
+
+![pexels-luis-gomes-166706-546819 (1)](https://github.com/user-attachments/assets/f913a23a-c432-4d4a-87ed-6123c8d934ab)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
