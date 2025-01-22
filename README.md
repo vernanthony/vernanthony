@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vernon, an <a href="https://linkedin.com/in/VernonBristo">IT Professional</h1>
+<h1>Hi, I'm Vernon, an <a href="https://linkedin.com/in/vernon-bristo-468618219/">IT Professional</h1>
 
 ![Screenshot 2025-01-22 125529](https://github.com/user-attachments/assets/e04aecad-cf2a-4d39-8f8b-b5fcbe6f340a)
 
