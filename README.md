@@ -1,7 +1,7 @@
 <h1>Hi, I'm Vernon, an <a href="https://linkedin.com/in/VernonBristo">IT Professional</h1>
 
+![Screenshot 2025-01-22 130927](https://github.com/user-attachments/assets/806a70fa-72e5-400e-8353-dc683295defa)
 
-![pexels-luis-gomes-166706-546819 (1)](https://github.com/user-attachments/assets/f913a23a-c432-4d4a-87ed-6123c8d934ab)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
