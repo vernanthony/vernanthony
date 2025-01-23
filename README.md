@@ -21,4 +21,4 @@
 
 
 [instagram]: https://www.instagram.com/pm_pr3y
-[linkedin]: https://linkedin.com/in/VernonBristo
+[linkedin]: https://linkedin.com/in/vernon-bristo-468618219
