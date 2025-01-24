@@ -12,7 +12,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/vernanthony/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vernanthony/azure-network-protocols)
+- <b>PowerShell
+  - [Network Diagnostic Tool](https://github.com/vernanthony/network-tool)
 
+</b>
 <h2>🤳Connect with me:</h2>
 
 
